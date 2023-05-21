@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function Header() {
   return (
     <nav>
-        <h1>TechStar</h1>
+        <h1>TechyStar</h1>
         <main>
             <Link to={"/"}>Home</Link>
             <Link to={"/contact"}>Contact</Link>
